@@ -31,3 +31,12 @@ Connect to rpi
 
 defaul login: pi
 default password: raspberry
+
+
+Interesting project
+-------------------
+
+balena-rpiplay
+Turn a Raspberry Pi into an Airplay server using RPiPlay to enable screen mirroring on tvs, monitors and projectors.
+
+This project essentially creates a docker image wrapping RPiPlay and making it easily deployable to balena fleets.
