@@ -2,6 +2,13 @@ STARTUP for wifi
 -------
 
 Prepare sd card
+- Write operating system on card
+
+etcher to write (don't use dd it can be unpredictable)
+https://www.balena.io/etcher/
+
+raspbian images
+https://www.raspberrypi.com/software/operating-systems/
 
 - Create empty file `ssh` to allow ssh connection
 
