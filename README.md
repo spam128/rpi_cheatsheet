@@ -25,6 +25,8 @@ network={
 }
 ```
 
+- append your public key `~/.ssh/id_rsa.pub` to sd card authorized_keys `.ssh/authorized_keys`
+
 
 Connect to rpi 
 
