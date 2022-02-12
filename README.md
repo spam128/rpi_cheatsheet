@@ -41,6 +41,11 @@ Connect to rpi
 defaul login: pi
 default password: raspberry
 
+Parts
+-----
+
+- [adc converters](adc.md)
+
 
 Interesting project
 -------------------
