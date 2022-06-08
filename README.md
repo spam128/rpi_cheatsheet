@@ -10,9 +10,9 @@ https://www.balena.io/etcher/
 raspbian images
 https://www.raspberrypi.com/software/operating-systems/
 
-- Create empty file `ssh` to allow ssh connection
+- Create empty file `ssh` to allow ssh connection on boot partition.
 
-- Create wpa_supplicant.conf and add (change network name and password)
+- Create wpa_supplicant.conf and add (change network name and password) to boot partition.
 ```
 country=PL
 update_config=1
